@@ -65,10 +65,12 @@ The visualizer generates up to four columns of graphs, each providing different 
 ### Example Visualizations
 
 #### BMC (Bounded Model Checking) Interaction
-![BMC example](https://github.com/user-attachments/assets/0c042635-f200-495e-bcdb-6be1009e51de)
+
+![BMC example](https://github.com/user-attachments/assets/104aa8ef-6736-4862-beed-7871392986ac)
 
 #### MaxSAT Solver Interaction
-![MaxSAT example](https://github.com/user-attachments/assets/8de79fcc-7115-4e49-9d29-cfeb18e351a8)
+
+![MaxSAT example](https://github.com/user-attachments/assets/d0819052-0534-4617-a888-3e80bc0a7689)
 
 Note: The MaxSAT example shows a different pattern in assumptions and query results compared to the BMC example, and does not include weakened or restored clauses.
 
