@@ -66,7 +66,7 @@ The visualizer generates up to four columns of graphs, each providing different 
 
 #### BMC (Bounded Model Checking) Interaction
 
-![BMC example](https://github.com/user-attachments/assets/104aa8ef-6736-4862-beed-7871392986ac)
+![BMC example](https://github.com/user-attachments/assets/2e54c138-3aec-4854-b089-679112e9551a)
 
 #### MaxSAT Solver Interaction
 
